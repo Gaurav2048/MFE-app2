@@ -43,7 +43,7 @@ module.exports = {
       name: "hostreact",
       filename: "remoteEntry.js",
       remotes: {
-        growlers: "growlers@http://localhost:8080/remoteEntry.js",
+        growlers: "growlers@https://distracted-pare-ceb1c4.netlify.app/remoteEntry.js",
       },
       exposes: {},
       shared: {
